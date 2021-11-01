@@ -1,4 +1,4 @@
-# Project Analyzing Data with SQL and Sheets. Retention rate analysis.
+# Retention rate analysis with SQL and Sheets.
 
 ## Introduction 
 
