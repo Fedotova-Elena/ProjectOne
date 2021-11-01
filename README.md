@@ -25,6 +25,7 @@ The fractional retention for a number of retained players/total number of player
 ## Queries description 
 
 Full queries can be found in queries.md:
+
 Query 1. For answering first and second question I did 5 nested queries:
 1. Using aggregation functions (MAX, MIN) and JOIN between matches_info and player_info
 counted what was the day players joined the game and when was the last match they played 
