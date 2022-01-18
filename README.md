@@ -3,7 +3,7 @@
 ## Introduction 
 
 This is a training project made for a JUNO College Data Analytics Bootcamp. 
-My partner for this project was [Victor Silvano](https://github.com/VictorSilvano/Juno-Bootcamp)
+My partner for this project was [Victor Silvano](https://github.com/VictorSilvano)
 
 This project analyses player retention for a mobile game company. 
 Specific interest of this analysis is counting the rolling 30-day retention and expressing it as a fraction of the total player base.  
@@ -24,7 +24,7 @@ The fractional retention for a number of retained players/total number of player
 
 ## Queries description 
 
-Full queries can be found in queries.md:
+Full queries can be found [here](queries.md):
 
 Query 1. For answering first and second question I did 5 nested queries:
 1. Using aggregation functions (MAX, MIN) and JOIN between matches_info and player_info
