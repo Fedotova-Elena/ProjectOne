@@ -57,7 +57,7 @@ https://docs.google.com/spreadsheets/d/12K2GIhoHZVpDoEblvJTlDt8YpZ0f_d3GBT_jawbh
 ## Visualisations
 
 1. On the first chart we track the movement of the 30-day retention rate throughout the year. All days between 334-365 were removed since retention of said days could not be accurately measured. These days would be analysed in the next year. Retention of a player is only achieved if they play a match on the 31st day after their registration day. Chart shows a stable retention rate throughout the year.
- ![Rolling_30-day_retention](Rolling_30-day_retention.png) 
+ ![Rolling_30-day_retention](code/Rolling_30-day_retention.png) 
  
 2. A scatter plot shows the spending habits vs player's period of engagement(total days in the game) of every single player. Each dot represents each player. Players who played between 20 and 60 days were spending between 250-2000. Players who spend in the game less days than the chosen retention rate were spending up to 3000.  
- ![Total_spending_and_rolling_30_day_retention_rate](Total_spending_and_rolling_30_day_retention_rate.png)
+ ![Total_spending_and_rolling_30_day_retention_rate](code/Total_spending_and_rolling_30_day_retention_rate.png)
